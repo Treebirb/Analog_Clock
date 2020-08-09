@@ -1,0 +1,3 @@
+https://github.com/tcbrindle/sdl2-cmake-scripts
+
+Special Thanks to Tristan Brindle for the SDL2 CMake Scripts
